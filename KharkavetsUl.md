@@ -6,3 +6,5 @@
 * Выполняем git branch FIO
 * Выполняем git checkout KharkavetsUl
 * Добавляем свой файл с названием KharkavetsUl.md
+*  Выполняем Коммит и пишем инструкцию
+*  
